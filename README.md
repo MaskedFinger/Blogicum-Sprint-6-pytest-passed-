@@ -1,1 +1,2 @@
 # Blogicum
+Пройденный Pytest
